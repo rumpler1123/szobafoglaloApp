@@ -1,0 +1,2 @@
+# szobafoglaloApp
+Szállodai szobafoglaló alkalmazás
